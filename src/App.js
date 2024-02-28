@@ -22,7 +22,7 @@ const todelete= (index)=>{
     
 
   return (
-    <div className="App">
+    <div className="App container">
       <h2>To do list</h2>
       <ul>
         {
