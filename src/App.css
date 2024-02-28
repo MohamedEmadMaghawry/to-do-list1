@@ -1,0 +1,56 @@
+body{
+  background-color: #cffcff;
+}
+.App{
+  border: 1px solid #9ee37d;
+  margin: 100px 30%;
+  padding: 50px;
+  text-align: center;
+  border-radius: 25px;
+  background-color: #aaefdf;
+}
+.App h2{
+  color: black;
+}
+.App ul{
+  list-style:"♻️";
+  cursor: pointer;
+  font-size: 18px;
+  color: black;
+  margin: 20px;
+}
+.App input{
+  border-radius: 10px;
+  width: 200px;
+  height: 40px;
+  outline: none;
+  border: none;
+  margin: 20px;
+}
+.App button{
+  display: block;
+  margin: auto;
+  width: 150px;
+  height: 30px;
+  background-color: #358600;
+  color: white;
+  border-radius: 10px;
+  border: 0;
+  cursor: pointer;
+}
+.App ul li{
+  overflow-wrap:break-word ;
+font-weight: bold;
+font-size: 17px;}
+.diffstyle{
+ list-style: "✔️";
+
+}
+.div10{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.div10 span{
+  color: green;
+}
