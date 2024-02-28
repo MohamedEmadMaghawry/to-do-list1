@@ -2,7 +2,7 @@ body{
   background-color: #cffcff;
 }
 
-@media only screen and (min-width: 500px) {
+@media only screen and (min-width: 300px) {
   .App{
     border: 1px solid #9ee37d;
     margin: 20px 20px;
